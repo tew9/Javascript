@@ -1,6 +1,3 @@
 [submodule "shopping-List"]
 	path = shopping-List
 	url = https://github.com/tew9/shopping-List.git
-[submodule "Background-Generator"]
-	path = Background-Generator
-	url = https://github.com/tew9/Background-Generator.git
