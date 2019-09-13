@@ -1,0 +1,3 @@
+[submodule "shopping-List"]
+	path = shopping-List
+	url = https://github.com/tew9/shopping-List.git
