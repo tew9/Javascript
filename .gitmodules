@@ -4,3 +4,6 @@
 [submodule "Background-Generator"]
 	path = Background-Generator
 	url = https://github.com/tew9/Background-Generator.git
+[submodule "Shopping_List"]
+	path = Shopping_List
+	url = https://github.com/tew9/Shopping_List.git
